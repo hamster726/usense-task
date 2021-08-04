@@ -1,4 +1,5 @@
 <img alt="USENSE logo" height="200" src="public/usense-logo.svg" width="200"/>
+
 # USENSE task
 
 Ваша задача создать генератор случайных строк. Каждое значение должно состоять из 5 символов.
